@@ -1,0 +1,3 @@
+ssh aelgohar@pascal.ee.ryerson.ca
+
+vncconnect
