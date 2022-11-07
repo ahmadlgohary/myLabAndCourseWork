@@ -1,0 +1,9 @@
+Can you explain why 3+5+8 divided by 3 doesn't give the correct average of the numbers 3, 5, and 8?
+because it is dividing by an intger not a decimal number when dividing by integers the complier give answers to whole 
+numbers and ignores remainders to get an accurate average divide by 3.0.
+
+
+Using your text book, or an Internet search (do not ask friends or TA) or simply by experimenting with 
+Geany, explain in a few sentences the differences between the division (/) and the remainder (%) operators.
+(/) divides integers by intergers to give intgers. integers by doubles to give doubles but (%) divides integers by intergers 
+and gives an integer and the remainder unlike (/) which only gives an integer.
