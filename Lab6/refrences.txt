@@ -1,0 +1,2 @@
+https://www.geeksforgeeks.org/rotate-bits-of-an-integer/
+https://stackoverflow.com/questions/13584307/reverse-bit-order-on-vhdl
