@@ -1,0 +1,45 @@
+public class Animal {
+    public static int count;
+    public Animal(){
+    count++;
+    System.out.println("Animal Constructor");
+    }
+    public void animalSound(){
+    System.out.println("the animal makes a sound");
+    }
+}
+class pig extends Animal {
+public pig(){
+count++;
+System.out.println("pig constructor");
+    }
+
+public void animalSound(){
+    System.out.println("onik");
+}
+
+}
+
+class dog extends Animal {
+public dog(){
+count++;
+System.out.println("Dog constructor");
+    }
+
+public void animalSound(){
+    System.out.println("woof");
+}
+
+}
+
+public class mainclass {
+public static void main(String[] args){
+Animal myAnimal = new Animal();
+Animal myPig = new pig();
+Animal myDog = new dog();
+System.out.println(myAnimal.count + "---" + myPig.count + "---" + myDog.count);
+    myAnimal.animalSound(); 
+    myPig.animalSound(); 
+    myDog.animalSound();
+    }
+}
