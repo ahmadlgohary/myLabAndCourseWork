@@ -1,0 +1,77 @@
+/*Exercise 3*/
+#include <stdio.h>
+
+int
+ /*was inx*/
+main (void) {	
+  int a = 3, b = 4, e;
+  /*comma , instead of a semi column ; after "a=3"*/
+	double f = 4, c, d;
+  /*was Double with a capital d. C is cases sensitive*/
+	d = a + b;
+	c = a/(f - b);
+	printf("The value of d is %f\n", d);
+  /*missimg quotations and proper place holder and a semi column after the commad*/
+	return (0);
+}
+/*value of d is 7*/
+
+/*Exercise 6*/
+/*
+Exercise #6:
+
+Answer these 10 questions by reading your notes, your textbook or by trying with Geany:
+
+What is the difference between char and Char?
+
+char is a variable type used to introduce variables where Char is not because C is cases sensitive 
+Char and char are not the same thing CHar can be used as a varible name but char cannot.
+
+What is displayed by printf ("%d", 3/4); ?
+
+nothing
+
+Is printf ("%f", 50); valid?
+
+no because 50 is an integer and %f is for float or decimals
+
+If you omit the ; at the end of a C statement, is it still working?
+
+no because ; is delclaring that the commad is done and ready to be executed
+
+What is the difference between %f and %lf?
+
+%f is place holder for float and %lf is for long float which uses more memory than than float 
+
+What happens when you attempt a division by zero in C?
+
+you get a warning and it tells you dividing by zero is not possible
+
+Is the expression 35%15.3 valid?
+
+no it is missing the multipilcation sign * and % is not recoginsed as /100 by the compliler
+
+Is there a difference between starting your program with main() instead of int main (void)?
+
+yes the type specifier is missing
+
+What happens if you try to display an integer between 0 and 255 with a %c placeholder?
+
+the compiler doesnot recognise numbers as characters
+
+Are the expressions 5/3, 5%3, 5.0/3 exactly the same?
+
+5/3 and5.0/3 is the same thing but 5%3 is not because it is missing the multipilcation sign * and 
+% is not recoginsed as /100 by the compliler and in general 5% of 3 is not equal to 5/3
+*/
+/*
+part II
+explain in one or two sentences the difference between the printf and scanf statements in C.
+
+scanf is to take a value from the user and assign it to a variable but printf is to show a message to the user for example  
+to tell them what to input
+
+explain in one sentence or two the difference between integer and double variables in C.
+
+and integer is a whole number without decimals while a double can be a decimal or a whole number it doesnt matter to the compliler.
+*/
