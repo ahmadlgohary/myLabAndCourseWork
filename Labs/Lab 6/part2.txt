@@ -1,5 +1,0 @@
-
-
-
-
-/* * relates to a pointer which is a variable which stores the address of another variable & is the address of the variable, the location of which the value of the variable is stored into in the ram*/
