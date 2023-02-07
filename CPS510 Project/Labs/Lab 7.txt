@@ -1,0 +1,9 @@
+FD (info) -  date_time
+city_name-> location_address
+FD (teams) - TeamName -> country_name,  Coach_Name 
+
+points -> numberof_wins, numberof_lost, matplayed, points, numbeof_goals
+
+country_name -> TeamName
+
+the rest are in 3NF

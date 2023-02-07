@@ -1,0 +1,35 @@
+FD (Crew) - CrewName -> Occupation, Age 
+
+CrewName is an independent attribute that determines all attributes of the table, so this relation is already in BCNF.
+
+
+FD (info) - city_name ->location_address, date_time 
+city_name is an independent attribute that determines all attributes of the table, so this relation is 
+already in BCNF.
+
+FD (Coach) - CoachName -> Age, CoachTeam, CoachRecord, CoachCountry
+
+CoachName and CoachTeam are both primary attributes since they can determine all attributes in the Coach table. These two attributes determine the rest of the attributes with no transitivity. So this relation is already in BCNF.
+
+
+FD (Players) - PlayerNum, PlayerName -> PlayerPosition, NumOfRedCards, NumOfYellowCards, Goals, Fouls, Team_Name
+
+This relation is already in BCNF. 
+Compute PlayerNum,PlayerName+ 
+= {PlayerNum,PlayerName} 
+= {PlayerNum,PlayerName,Team_Name} 
+= {PlayerNum,PlayerName,Team_Name, PlayerPosition, NumOfRedCards, NumOfYellowCards, Goals, Fouls}
+
+
+FD (teams) - TeamName -> country_name, Coach_Name 
+points -> numberof_wins, numberof_lost, matplayed, points, numbeof_goals 
+country_name -> TeamName, matplayed
+
+
+This relation is already in BCNF. 
+
+Compute TeamName+ 
+= {TeamName} 
+= {TeamName,country_name, Coach_Name, points} 
+= {TeamName,country_name, Coach_Name ,points,  numberof_wins, numberof_lost, matplayed, points, numbeof_goals}
+= {TeamName,country_name, Coach_Name ,points,  numberof_wins, numberof_lost, matplayed, points, numbeof_goals，country_name -> TeamName, matplayed}

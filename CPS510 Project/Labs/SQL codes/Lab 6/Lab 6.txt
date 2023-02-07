@@ -1,0 +1,8 @@
+FD (Crew) - CrewName -> Occupation, Age
+FD (info) - city_name ->location_address, date_time
+FD (Coach) - CoachName -> Age, CoachTeam, CoachRecord, CoachCountry
+FD (teams) - TeamName -> country_name, numberof_wins, numberof_lost, matplayed, points, numbeof_goals, Coach_Name 
+             country_name -> TeamName, numberof_wins, numberof_lost, matplayed, points, numbeof_goals, Coach_Name
+
+
+FD (Players) - PlayerNum, PlayerName -> PlayerPosition, NumOfRedCards, NumOfYellowCards, Goals, Fouls, Team_Name
