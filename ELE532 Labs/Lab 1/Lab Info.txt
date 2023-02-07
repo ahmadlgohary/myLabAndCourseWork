@@ -1,0 +1,1 @@
+In Lab 1 you will work with simple Matlab functions and explore key Matlab features such as algorithm vectorization and array indexing. You will use Matlab to operate on signals and will visualize the effects of these operations.

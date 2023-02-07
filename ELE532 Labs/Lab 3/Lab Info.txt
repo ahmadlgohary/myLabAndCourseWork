@@ -1,0 +1,2 @@
+In this experiment, you will use Fourier series in the analysis and synthesis of periodic signals while continuing to learn how to use Matlab effectively. You will explore characteristics of Fourier series,  investigate how the period of a signal affects Fourier series coefficients, and study the effects of series truncation on signal reconstruction.
+

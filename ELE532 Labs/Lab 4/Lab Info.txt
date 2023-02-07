@@ -1,0 +1,2 @@
+
+In this assignment, you will use the Fourier transform to analyze, observe and study frequency-domain characteristics of time waveforms. You will explore properties of the Fourier transform and use the Fourier transform as a diagnostic tool to identify the characteristics of a bandpass transmission channel. You will design and implement a simple communications system that will allow you to transmit a voice signal over the bandpass transmission system and decode the received signal. 
