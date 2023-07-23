@@ -1,0 +1,165 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Ahmad El-Gohary\Desktop\COE328 Lab files\Lab4\simulation\qsim
+vdecodModified
+Z1 Ig5o;md_Xz2=]@cOGcBUPo2
+Z2 V>bXiAAMg`b3Sn3G=9RXd43
+Z3 dC:\Users\Ahmad El-Gohary\Desktop\COE328 Lab files\Lab4\simulation\qsim
+Z4 w1635797795
+Z5 8lab4.vo
+Z6 Flab4.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|lab4.vo|
+Z9 o-work work -O0
+Z10 ndecod@modified
+!i10b 1
+Z11 !s100 PnGEmWdE]VGjR1Th0anOD2
+!s85 0
+Z12 !s108 1635797796.493000
+Z13 !s107 lab4.vo|
+!s101 -O0
+vdecodModified_vlg_check_tst
+!i10b 1
+!s100 =fXS<j@nGcc]=mbUQHofz3
+IVGANfohQSMT_<U9:5R;OW0
+V6jmTQ_S>n8^Ma@5gIEL3X3
+R3
+R4
+Z14 8lab4.vt
+Z15 Flab4.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z16 !s108 1635797796.557000
+Z17 !s107 lab4.vt|
+Z18 !s90 -work|work|lab4.vt|
+!s101 -O0
+R9
+ndecod@modified_vlg_check_tst
+vdecodModified_vlg_sample_tst
+!i10b 1
+!s100 RRK5hFO2l[Y:eRHl0]nPB0
+IT11nm>JfXJoK>H`el:Kf]1
+V8fHBE``5[HaP]G2<RcDPa0
+R3
+R4
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R9
+ndecod@modified_vlg_sample_tst
+vdecodModified_vlg_vec_tst
+!i10b 1
+!s100 4h`BnedgAdhfdiH8Dgj^Q3
+IkZIJ]<Fh_zOF3dgPHb^VE1
+V7P[>H6fSm>m8G[L?d5Umj3
+R3
+R4
+R14
+R15
+L0 281
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R9
+ndecod@modified_vlg_vec_tst
+vmuxModified
+Z19 IIUkQ^cM>bSH4ALAZ14FFl3
+Z20 VVCb?@XVSOE9Ga8lJT;>Lc1
+R3
+Z21 w1635797568
+R5
+R6
+L0 31
+R7
+r1
+31
+R9
+Z22 nmux@modified
+Z23 !s100 7g1`koZOX9V>L6Oi<OKng1
+Z24 !s108 1635797569.485000
+R13
+R8
+!i10b 1
+!s85 0
+!s101 -O0
+vmuxModified_vlg_check_tst
+Z25 ICT0=`;>kcze[lN?23:4JY2
+Z26 VL]oW3B43269nARo5531PF1
+R3
+R21
+R14
+R15
+L0 67
+R7
+r1
+31
+Z27 !s108 1635797569.564000
+Z28 !s107 lab4.vt|
+R18
+R9
+Z29 nmux@modified_vlg_check_tst
+Z30 !s100 `@<4BaeFDE3W]jS>VDVj10
+!i10b 1
+!s85 0
+!s101 -O0
+vmuxModified_vlg_sample_tst
+Z31 I;^M<=8cC7nTAo>a>KDe1:2
+Z32 VV<R`PZj:7DTRb2JbTz6Z;3
+R3
+R21
+R14
+R15
+L0 29
+R7
+r1
+31
+R27
+R28
+R18
+R9
+Z33 nmux@modified_vlg_sample_tst
+Z34 !s100 ^W3?J[DjNhgD=`4<RklP]1
+!i10b 1
+!s85 0
+!s101 -O0
+vmuxModified_vlg_vec_tst
+Z35 Ie1dg[8C[5oaD;V_T>@FV@3
+Z36 V0>QdIQ>IFYmWn[6;z8cD@3
+R3
+R21
+R14
+R15
+Z37 L0 162
+R7
+r1
+31
+R27
+R28
+R18
+R9
+Z38 nmux@modified_vlg_vec_tst
+Z39 !s100 Hi4:52Z>c_b2Sa<N9I3I;0
+!i10b 1
+!s85 0
+!s101 -O0

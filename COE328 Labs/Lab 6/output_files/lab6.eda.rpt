@@ -1,0 +1,69 @@
+EDA Netlist Writer report for lab6
+Sun Dec 19 18:02:43 2021
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. EDA Netlist Writer Summary
+  3. EDA Netlist Writer Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++---------------------------------------------------------------+
+; EDA Netlist Writer Summary                                    ;
++---------------------------+-----------------------------------+
+; EDA Netlist Writer Status ; Failed - Sun Dec 19 18:02:43 2021 ;
+; Revision Name             ; lab6                              ;
+; Top-level Entity Name     ; lab6                              ;
+; Family                    ; Cyclone II                        ;
++---------------------------+-----------------------------------+
+
+
++-----------------------------+
+; EDA Netlist Writer Messages ;
++-----------------------------+
+Info: *******************************************************************
+Info: Running Quartus II 64-Bit EDA Netlist Writer
+    Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+    Info: Processing started: Sun Dec 19 18:02:42 2021
+Info: Command: quartus_eda --gen_testbench --check_outputs=on --tool=modelsim_oem --format=verilog lab6 -c lab6 --vector_source="C:/Users/Ahmad El-Gohary/Desktop/lab 6/Waveform.vwf" --testbench_file=./simulation/qsim/lab6.vt
+Error (201008): Bus port "D" specified in vector source file has ports with indices that do not fall in the range of port D[1:16] in top level design of Quartus II project
+Warning (201007): Can't find port "D[0]" in design
+Error (201008): Bus port "D" specified in vector source file has ports with indices that do not fall in the range of port D[1:16] in top level design of Quartus II project
+Warning (201007): Can't find port "D[0]" in design
+Error (201008): Bus port "A" specified in vector source file has ports with indices that do not fall in the range of port A[4:1] in top level design of Quartus II project
+Error (201008): Bus port "A" specified in vector source file has ports with indices that do not fall in the range of port A[4:1] in top level design of Quartus II project
+Error (201008): Bus port "D" specified in vector source file has ports with indices that do not fall in the range of port D[1:16] in top level design of Quartus II project
+Warning (201007): Can't find port "D[0]" in design
+Error (201008): Bus port "A" specified in vector source file has ports with indices that do not fall in the range of port A[4:1] in top level design of Quartus II project
+Warning (201007): Can't find port "A[0]" in design
+Info (201000): Generated Verilog Test Bench File ./simulation/qsim/lab6.vt for simulation
+Error: Quartus II 64-Bit EDA Netlist Writer was unsuccessful. 6 errors, 4 warnings
+    Error: Peak virtual memory: 4515 megabytes
+    Error: Processing ended: Sun Dec 19 18:02:43 2021
+    Error: Elapsed time: 00:00:01
+    Error: Total CPU time (on all processors): 00:00:00
+
+

@@ -1,0 +1,157 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Ahmad El-Gohary\Desktop\COE328 Lab files\Lab 3.2\simulation\qsim
+vcircuit
+Z1 !s100 5]LjJZjH[lI=8bI2KMH:l1
+Z2 I4X>`oYno8M6O?[ITB1Jg@0
+Z3 V3dY`4SadUcUVK2B=>7IOC3
+Z4 dC:\Users\Ahmad El-Gohary\Desktop\COE328 Lab files\Lab 3.2\simulation\qsim
+Z5 w1635666681
+Z6 8lab3.vo
+Z7 Flab3.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|lab3.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1635666681.726000
+Z12 !s107 lab3.vo|
+!s101 -O0
+vcircuit2
+Z13 !s100 [aZ?kO6V95FM2=mYYZDM;2
+Z14 I66V228Wj=ga[fe`DXV6D21
+Z15 V1LKB@2C^FVkIncP]?fDog1
+R4
+Z16 w1635199275
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+Z17 !s108 1635199276.643000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vcircuit2_vlg_check_tst
+Z18 !s100 ^DKV<bO_3`lV>Rk9n>E2i0
+Z19 ImoUIRfaDn_44W@Q2[a4VE3
+Z20 Vm;1]1A4X42U`;IkK25zQ`0
+R4
+Z21 w1635199274
+Z22 8lab3.vt
+Z23 Flab3.vt
+L0 61
+R8
+r1
+31
+Z24 !s108 1635199276.768000
+Z25 !s107 lab3.vt|
+Z26 !s90 -work|work|lab3.vt|
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vcircuit2_vlg_sample_tst
+Z27 !s100 MVRFIoj8el;>9D5ENgegP0
+Z28 IU7H7Q?SgA686<iHSnYTDS1
+Z29 VilQ_4]_lYkWIL_mE6P@Te1
+R4
+R21
+R22
+R23
+L0 29
+R8
+r1
+31
+R24
+R25
+R26
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vcircuit2_vlg_vec_tst
+Z30 ITB`YL;SbPH:kH2XlUX>441
+Z31 Vnm8PQg39=GJ6]UzS;mTTB1
+R4
+R21
+R22
+R23
+Z32 L0 397
+R8
+r1
+31
+R24
+R25
+R26
+R10
+Z33 !s100 ]l32PALR3IJ57mE8@;ok63
+!i10b 1
+!s85 0
+!s101 -O0
+vcircuit_vlg_check_tst
+!i10b 1
+!s100 L2JCP]oWnIY6l2bkLSID50
+ICm6SEUFBddaeLfX7G[hh93
+Z34 Vz5dCE50:F40mGo[?j<[S>3
+R4
+Z35 w1635666680
+R22
+R23
+L0 61
+R8
+r1
+!s85 0
+31
+Z36 !s108 1635666681.787000
+Z37 !s107 lab3.vt|
+R26
+!s101 -O0
+R10
+vcircuit_vlg_sample_tst
+!i10b 1
+Z38 !s100 cg5n4J5bhLYE_NB<?WgfP3
+Z39 Ihb@EjWUz=YUP@W_;P[e:I1
+Z40 VTEL]^^4WZ>8E<8=FTCc2a0
+R4
+R35
+R22
+R23
+L0 29
+R8
+r1
+!s85 0
+31
+R36
+R37
+R26
+!s101 -O0
+R10
+vcircuit_vlg_vec_tst
+!i10b 1
+!s100 03j<Tin6M0_c]VWWdS<j:3
+IIdQ6lY=zBOJ9jzOnjBghI2
+Z41 VX_`;[mXIlg@C`Q<kiQ7gX1
+R4
+R35
+R22
+R23
+L0 424
+R8
+r1
+!s85 0
+31
+R36
+R37
+R26
+!s101 -O0
+R10

@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Ahmad El-Gohary\Desktop\Lab5\simulation\qsim
+vlab5circuit
+Z1 !s100 GQzl<i8<FK;W[aYlNeHh`0
+Z2 I^8jeEd2h?;CMfkUz=[lZZ0
+Z3 VGCECTg9Ph^62:=dJboHV41
+Z4 dC:\Users\Ahmad El-Gohary\Desktop\Lab5\simulation\qsim
+Z5 w1637461908
+Z6 8lab5.vo
+Z7 Flab5.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|lab5.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1637461908.965000
+Z12 !s107 lab5.vo|
+!s101 -O0
+vlab5circuit_vlg_check_tst
+!i10b 1
+Z13 !s100 jZ_aPhCJX48TL>L^>dhk53
+Z14 I`nTWNW50b_^1E3aNG_Yce3
+Z15 VNSkSaWoK_dVfcW^e9bUQ:1
+R4
+Z16 w1637461907
+Z17 8lab5.vt
+Z18 Flab5.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z19 !s108 1637461909.026000
+Z20 !s107 lab5.vt|
+Z21 !s90 -work|work|lab5.vt|
+!s101 -O0
+R10
+vlab5circuit_vlg_sample_tst
+!i10b 1
+Z22 !s100 Zj^8=:N;>;cdVJUcV2lXB0
+Z23 IX@l3DAzBDic0jcj0>TYhQ2
+Z24 V_eFdgnUKb_Q1QO=P9>0H_1
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vlab5circuit_vlg_vec_tst
+!i10b 1
+!s100 @nK9>^GWn?P8ZMeUUSGhe0
+IW?VkmHkeIHJQm1^9ioJ^H0
+Z25 VYajF7B>I?j=eN^P@7mVBH1
+R4
+R16
+R17
+R18
+Z26 L0 665
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
